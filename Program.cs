@@ -93,5 +93,5 @@ namespace ConsoleApp1
         }
     }
 }
-
+САНЯ КОТ НЕ РОБОТАИТ!!1!!!
 
